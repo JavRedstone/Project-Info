@@ -1,1 +1,0 @@
-# Clover Project Information
